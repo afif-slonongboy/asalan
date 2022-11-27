@@ -19,7 +19,6 @@ exports.listmenu = (sender, prefix, ad, namenya, premnya, usernya, romnya, tangg
  Date : ${tanggal}
  Terdaftar : ${usernya}
  Room Chat : ${romnya}
- Total Fitur : 600+
 
  𝙈𝘼𝙄𝙉 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}menu
@@ -256,13 +255,6 @@ exports.listmenu = (sender, prefix, ad, namenya, premnya, usernya, romnya, tangg
  ${no++} ➳ ${prefix}cekstatus <idtrx>
  ${no++} ➳ ${prefix}komisi <owner only>
  ${no++} ➳ ${prefix}tarikkomisi <owner only>
- 
- 𝙑𝙊𝙆𝘼𝙇 𝙈𝙀𝙉𝙐 
- ${no++} ➳ ${prefix}hilih <text>
- ${no++} ➳ ${prefix}halah <text>
- ${no++} ➳ ${prefix}huluh <text>
- ${no++} ➳ ${prefix}heleh <text>
- ${no++} ➳ ${prefix}holoh <text>
  
  𝙍𝘼𝙉𝘿𝙊𝙈 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}cecan
@@ -625,82 +617,6 @@ exports.listmenu = (sender, prefix, ad, namenya, premnya, usernya, romnya, tangg
  ${no++} ➳ ${prefix}battlefield4 text1 text2
  ${no++} ➳ ${prefix}pubg text1 text2
 
- 𝙀𝙋𝙃𝙊𝙏𝙊 𝙈𝙀𝙉𝙐 
- ${no++} ➳ ${prefix}wetglass text
- ${no++} ➳ ${prefix}multicolor3d text
- ${no++} ➳ ${prefix}watercolor text
- ${no++} ➳ ${prefix}luxurygold text
- ${no++} ➳ ${prefix}galaxywallpaper text
- ${no++} ➳ ${prefix}lighttext text
- ${no++} ➳ ${prefix}beautifulflower text
- ${no++} ➳ ${prefix}puppycute text
- ${no++} ➳ ${prefix}royaltext text
- ${no++} ➳ ${prefix}heartshaped text
- ${no++} ➳ ${prefix}birthdaycake text
- ${no++} ➳ ${prefix}galaxystyle text
- ${no++} ➳ ${prefix}hologram3d text
- ${no++} ➳ ${prefix}greenneon text
- ${no++} ➳ ${prefix}glossychrome text
- ${no++} ➳ ${prefix}greenbush text
- ${no++} ➳ ${prefix}metallogo text
- ${no++} ➳ ${prefix}noeltext text
- ${no++} ➳ ${prefix}glittergold text
- ${no++} ➳ ${prefix}textcake text
- ${no++} ➳ ${prefix}starsnight text
- ${no++} ➳ ${prefix}wooden3d text
- ${no++} ➳ ${prefix}textbyname text
- ${no++} ➳ ${prefix}writegalacy text
- ${no++} ➳ ${prefix}galaxybat text
- ${no++} ➳ ${prefix}snow3d text
- ${no++} ➳ ${prefix}birthdayday text
- ${no++} ➳ ${prefix}goldplaybutton text
- ${no++} ➳ ${prefix}silverplaybutton text
- ${no++} ➳ ${prefix}freefire text
-
- 𝙍𝘼𝙉𝘿𝙊𝙈 𝙄𝙈𝘼𝙂𝙀 
- ${no++} ➳ ${prefix}bj
- ${no++} ➳ ${prefix}ero
- ${no++} ➳ ${prefix}ppcp
- ${no++} ➳ ${prefix}cum
- ${no++} ➳ ${prefix}feet
- ${no++} ➳ ${prefix}yuri
- ${no++} ➳ ${prefix}trap
- ${no++} ➳ ${prefix}lewd
- ${no++} ➳ ${prefix}feed
- ${no++} ➳ ${prefix}eron
- ${no++} ➳ ${prefix}solo
- ${no++} ➳ ${prefix}gasm
- ${no++} ➳ ${prefix}poke
- ${no++} ➳ ${prefix}anal
- ${no++} ➳ ${prefix}holo
- ${no++} ➳ ${prefix}tits
- ${no++} ➳ ${prefix}kuni
- ${no++} ➳ ${prefix}kiss
- ${no++} ➳ ${prefix}erok
- ${no++} ➳ ${prefix}smug
- ${no++} ➳ ${prefix}baka
- ${no++} ➳ ${prefix}solog
- ${no++} ➳ ${prefix}feetg
- ${no++} ➳ ${prefix}lewdk
- ${no++} ➳ ${prefix}waifu
- ${no++} ➳ ${prefix}pussy
- ${no++} ➳ ${prefix}femdom
- ${no++} ➳ ${prefix}cuddle
- ${no++} ➳ ${prefix}hentai
- ${no++} ➳ ${prefix}eroyuri
- ${no++} ➳ ${prefix}cum_jpg
- ${no++} ➳ ${prefix}blowjob
- ${no++} ➳ ${prefix}erofeet
- ${no++} ➳ ${prefix}holoero
- ${no++} ➳ ${prefix}classic
- ${no++} ➳ ${prefix}erokemo
- ${no++} ➳ ${prefix}fox_girl
- ${no++} ➳ ${prefix}futanari
- ${no++} ➳ ${prefix}lewdkemo
- ${no++} ➳ ${prefix}wallpaper
- ${no++} ➳ ${prefix}pussy_jpg
- ${no++} ➳ ${prefix}kemonomimi
- ${no++} ➳ ${prefix}nsfw_avatar
  `
 }
 
@@ -726,11 +642,11 @@ exports.donasiBot = (cekName, ucapanWaktu) => {
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Ovo*
-Number: 085789004732
+Number: 081317880558
 A/N: Asb STORE
 
 *Payment Dana*
-Number: 085789004732
+Number: 081317880558
 A/N: Asb OFFICIAL
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
